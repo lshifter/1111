@@ -1,0 +1,63 @@
+# Ideal Fit Landing Page - TODO
+
+## Core Features
+- [x] Set up Google Sheets API integration for form submissions
+- [x] Create database schema for storing form submissions
+- [x] Implement hero section with main headline and video player
+- [x] Implement video popup purchase window (appears at 50% video progress)
+- [x] Add "Order Now" button below video that scrolls to form
+- [x] Create customer reviews section with generated photos
+- [x] Add Spanish expert opinion section (Dr. Alejandro Torres)
+- [x] Implement contact form (Name + Phone) with validation
+- [x] Connect form submission to Google Sheets
+- [x] Add Spanish media logos section ("As seen on")
+- [x] Implement responsive design for mobile/tablet/desktop
+- [x] Add Spanish language throughout (all text in Spanish)
+- [x] Add price display (29 euros)
+- [x] Create product image section
+- [x] Implement smooth scrolling functionality
+- [x] Add loading states and success messages for form submission
+- [ ] Test Google Sheets integration with real data
+- [x] Test video popup timing
+- [ ] Test form validation and submission
+- [ ] Deploy and verify all functionality
+- [x] Modify popup to appear only on button click (not automatic)
+- [x] Add strikethrough price (59€) with new price (29€)
+- [x] Add before/after photos to customer reviews
+- [x] Integrate with m1.top affiliate program (ID: 1026218, GEO: ES, Product: 11133)
+- [x] Implement affiliate API integration for order submission
+- [x] Prepare complete source code for GitHub upload
+- [x] Replace before/after images with single collage images per review
+- [x] Adapt review comments to match images
+- [x] Make one review more negative/realistic
+- [x] Simplify reviewer photos (less AI-generated looking)
+- [x] Remove email field from form
+- [x] Integrate tovary-promo.com in small window
+- [x] Change pricing: 78€ → 39€ with brighter strikethrough
+- [x] Add real doctor photo (not emoji)
+- [x] Remove delivery time mention
+- [x] Improve overall quality and authenticity
+- [x] Add TV channel logos to "COMO SE PRESENTA EN" section (IMAGEN TELEVISIÓN, NOTICIAS TELEMUNDO, FIA)
+- [x] Integrate tovary-promo.com payment window with form submission
+- [x] Redirect to payment page after form submission
+- [x] Create "Thank You" page with full-page design
+- [x] Add order confirmation details to thank you page
+- [x] Implement redirect from payment page back to thank you page
+- [x] Update Elena's review to show current form with promise of future results
+- [x] Add earlier dates to reviews (starting from July, scattered throughout)
+- [x] Remove form section completely (name/phone input fields)
+- [x] Direct both popup and main button to payment URL with parameters
+- [x] Enhance review quality and authenticity
+- [x] Prepare all source files for GitHub upload
+- [x] Remove popup modal window completely
+- [x] Move payment button to bottom (below reviews)
+- [x] Remove doctor opinion section entirely
+- [x] Make review cards shorter/more compact
+- [x] Remove before/after photo from third review (Elena)
+- [x] Optimize overall layout and spacing
+- [x] Remove Tovary-Promo iframe section completely
+- [x] Move payment button above trust badges (Pago Seguro and Garantía)
+- [ ] Prepare clean GitHub-ready files without errors
+- [ ] Create comprehensive GitHub setup documentation
+- [ ] Verify all dependencies and configurations
+- [ ] Create final GitHub archive for upload
